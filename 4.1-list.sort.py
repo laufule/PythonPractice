@@ -7,3 +7,9 @@ bickles.sort(reverse = True)
 print("逆序:")
 print(bickles)
 
+
+print("//////////////")
+print(bickles)
+print(bickles.reverse())
+print(bickles)
+
