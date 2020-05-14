@@ -13,3 +13,5 @@ print(car)
 moto = [value**2 for value in range(1,15)]
 print(moto)
 
+linux = list(range(1,20,2))
+
